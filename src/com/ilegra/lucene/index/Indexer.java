@@ -19,7 +19,7 @@ import org.apache.lucene.util.Version;
 
 import com.ilegra.lucene.file.FileManager;
 import com.ilegra.lucene.file.FileReaderUtil;
-
+/*classe do cure*/
 public class Indexer{
 	public void index () {
 		try {
